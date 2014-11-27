@@ -1,0 +1,12 @@
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos v1.exe
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos v1.pdb
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos UI.dll
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos.dll
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos UI.pdb
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos.pdb
+H:\Source\Pos v1\Pos v1\obj\Debug\ResolveAssemblyReference.cache
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.PosMainWindow.resources
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.Properties.Resources.resources
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos BUILD 1.csproj.GenerateResource.Cache
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos v1.exe
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos v1.pdb

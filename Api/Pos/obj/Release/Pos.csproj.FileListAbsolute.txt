@@ -1,0 +1,32 @@
+G:\Source\POS Api\Pos\bin\Release\Pos.dll.config
+G:\Source\POS Api\Pos\bin\Release\Pos.dll
+G:\Source\POS Api\Pos\bin\Release\Pos.pdb
+G:\Source\POS Api\Pos\obj\Release\ResolveAssemblyReference.cache
+G:\Source\POS Api\Pos\obj\Release\Pos.dll
+G:\Source\POS Api\Pos\obj\Release\Pos.pdb
+H:\Source\POS Api\Pos\obj\Release\ResolveAssemblyReference.cache
+H:\Source\POS Api\Pos\obj\Release\Pos.dll
+H:\Source\POS Api\Pos\obj\Release\Pos.pdb
+H:\Source\POS Api\Pos\bin\Release\Pos.dll.config
+H:\Source\POS Api\Pos\bin\Release\Pos.dll
+H:\Source\POS Api\Pos\bin\Release\Pos.pdb
+H:\Source\POS Api\Pos\obj\Release\Pos.csproj.GenerateResource.Cache
+H:\Source\POS Api\Pos\obj\Release\Pos.Properties.Resources.resources
+G:\Source\POS Api\Pos\obj\Release\Pos.Properties.Resources.resources
+G:\Source\POS Api\Pos\obj\Release\Pos.csproj.GenerateResource.Cache
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\bin\Release\Pos.dll.config
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\bin\Release\Pos.dll
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\bin\Release\Pos.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\obj\Release\Pos.Properties.Resources.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\obj\Release\Pos.csproj.GenerateResource.Cache
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\obj\Release\Pos.dll
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos\obj\Release\Pos.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\bin\Release\Pos.dll.config
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\bin\Release\Pos.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\bin\Release\Pos.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\obj\Release\Pos.Properties.Resources.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\obj\Release\Pos.csproj.GenerateResource.Cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\obj\Release\Pos.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos\obj\Release\Pos.pdb

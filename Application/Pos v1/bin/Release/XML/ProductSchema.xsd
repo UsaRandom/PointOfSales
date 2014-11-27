@@ -1,0 +1,22 @@
+﻿<xs:schema xmlns:xs ="http://www.w3.org/2001/XMLSchema">
+   <!--         Products          -->
+
+   <xs:element name="Products">
+      <xs:complexType>
+         <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Product">
+               <xs:complexType>
+                  <xs:sequence>
+                     <xs:element name="Item_Name" type="xs:string"/>
+                     <xs:element name="Stock_Number" type="xs:int"/>
+                     <xs:element name="Quantity" type="xs:int"/>
+                     <xs:element name="Cost" type="xs:int"/>
+                     <xs:element name="Price" type="xs:int"/>
+                     <xs:element name="Discontinued" type="xs:boolean"/>
+                  </xs:sequence>
+               </xs:complexType>
+            </xs:element>
+         </xs:choice>
+      </xs:complexType>
+   </xs:element>
+</xs:schema>

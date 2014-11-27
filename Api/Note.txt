@@ -1,0 +1,26 @@
+      ICurrency currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue()/cur.GetCount() == 20);
+      m_numTwenty.Maximum = currency.GetCount();
+      
+      currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue() == 10.00);
+      m_numTen.Maximum = currency.GetCount();
+      
+      currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue() == 5.00);
+      m_numFive.Maximum = currency.GetCount();
+      
+      currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue() == 1.00);
+      m_numOne.Maximum = currency.GetCount();
+      
+      currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue() == 0.25);
+      m_numQuarters.Maximum = currency.GetCount();
+      
+      currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue() == 0.10);
+      m_numDimes.Maximum = currency.GetCount();
+      
+      currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue() == 0.05);
+      m_numNickels.Maximum = currency.GetCount();
+      
+      currency = m_register.Cash.GetListOfCash().Single(cur => cur.GetValue() == 0.01);
+      m_numPennies.Maximum = currency.GetCount();
+      
+
+The above code may be usefull...

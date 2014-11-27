@@ -1,0 +1,81 @@
+H:\Source\POS Api\Pos UI\bin\Release\Pos UI.dll
+H:\Source\POS Api\Pos UI\bin\Release\Pos UI.pdb
+H:\Source\POS Api\Pos UI\bin\Release\Pos.dll
+H:\Source\POS Api\Pos UI\bin\Release\Pos.pdb
+H:\Source\POS Api\Pos UI\obj\Release\ResolveAssemblyReference.cache
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.MoneySelectorUI.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos UI.csproj.GenerateResource.Cache
+H:\Source\POS Api\Pos UI\obj\Release\Pos UI.dll
+H:\Source\POS Api\Pos UI\obj\Release\Pos UI.pdb
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.DataSourceSelectorUI.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.ItemSearchUI.resources
+G:\Source\POS Api\Pos UI\bin\Release\Pos UI.dll
+G:\Source\POS Api\Pos UI\bin\Release\Pos UI.pdb
+G:\Source\POS Api\Pos UI\bin\Release\Pos.dll
+G:\Source\POS Api\Pos UI\bin\Release\Pos.pdb
+G:\Source\POS Api\Pos UI\obj\Release\ResolveAssemblyReference.cache
+G:\Source\POS Api\Pos UI\obj\Release\Pos.UI.ItemSearchUI.resources
+G:\Source\POS Api\Pos UI\obj\Release\Pos.UI.DataSourceSelectorUI.resources
+G:\Source\POS Api\Pos UI\obj\Release\Pos.UI.MoneySelectorUI.resources
+G:\Source\POS Api\Pos UI\obj\Release\Pos UI.csproj.GenerateResource.Cache
+G:\Source\POS Api\Pos UI\obj\Release\Pos UI.dll
+G:\Source\POS Api\Pos UI\obj\Release\Pos UI.pdb
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.NewProductForm.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.SaleControl.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.Properties.Resources.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.ChangeForm.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.ReportControl.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.InventoryControl.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.AboutPOS.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.CashUpdaterUI.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.DiscontinueItemForm.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.ShipmentForm.resources
+H:\Source\POS Api\Pos UI\obj\Release\Pos.UI.ReturnForm.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\bin\Release\Pos UI.dll
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\bin\Release\Pos UI.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\bin\Release\Pos.dll
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\bin\Release\Pos.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.AboutPOS.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ChangeForm.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.CashUpdaterUI.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ReturnForm.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.DiscontinueItemForm.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.InventoryControl.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ItemSearchUI.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.DataSourceSelectorUI.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.MoneySelectorUI.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.NewProductForm.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.Properties.Resources.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ReportControl.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.SaleControl.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ShipmentForm.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos UI.csproj.GenerateResource.Cache
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos UI.dll
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos UI.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.UpdateProductForm.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.SaleDetailForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\bin\Release\Pos UI.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\bin\Release\Pos UI.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\bin\Release\Pos.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\bin\Release\Pos.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.AboutPOS.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ChangeForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.CashUpdaterUI.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ReturnForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.DiscontinueItemForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.InventoryControl.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ItemSearchUI.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.DataSourceSelectorUI.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.MoneySelectorUI.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.NewProductForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.Properties.Resources.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ReportControl.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.SaleControl.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.SaleDetailForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.ShipmentForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos.UI.UpdateProductForm.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos UI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos UI.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\POS Api\Pos UI\obj\Release\Pos UI.pdb

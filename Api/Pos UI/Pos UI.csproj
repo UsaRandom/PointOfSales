@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D1D8FCC0-4B48-4586-ABCC-A30BF01BBFBB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pos.UI</RootNamespace>
+    <AssemblyName>Pos UI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Pos, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Pos\bin\Release\Pos.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutPOS.Designer.cs">
+      <DependentUpon>AboutPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeForm.Designer.cs">
+      <DependentUpon>ChangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashUpdaterUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashUpdaterUI.Designer.cs">
+      <DependentUpon>CashUpdaterUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnForm.Designer.cs">
+      <DependentUpon>ReturnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiscontinueItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DiscontinueItemForm.Designer.cs">
+      <DependentUpon>DiscontinueItemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InventoryControl.Designer.cs">
+      <DependentUpon>InventoryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSearchUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemSearchUI.Designer.cs">
+      <DependentUpon>ItemSearchUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSourceSelectorUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSourceSelectorUI.Designer.cs">
+      <DependentUpon>DataSourceSelectorUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoneySelectorUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoneySelectorUI.Designer.cs">
+      <DependentUpon>MoneySelectorUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewProductForm.Designer.cs">
+      <DependentUpon>NewProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReportControl.Designer.cs">
+      <DependentUpon>ReportControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SaleControl.Designer.cs">
+      <DependentUpon>SaleControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleDetailForm.Designer.cs">
+      <DependentUpon>SaleDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShipmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShipmentForm.Designer.cs">
+      <DependentUpon>ShipmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProductForm.Designer.cs">
+      <DependentUpon>UpdateProductForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutPOS.resx">
+      <DependentUpon>AboutPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeForm.resx">
+      <DependentUpon>ChangeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashUpdaterUI.resx">
+      <DependentUpon>CashUpdaterUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnForm.resx">
+      <DependentUpon>ReturnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiscontinueItemForm.resx">
+      <DependentUpon>DiscontinueItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryControl.resx">
+      <DependentUpon>InventoryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSearchUI.resx">
+      <DependentUpon>ItemSearchUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataSourceSelectorUI.resx">
+      <DependentUpon>DataSourceSelectorUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoneySelectorUI.resx">
+      <DependentUpon>MoneySelectorUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewProductForm.resx">
+      <DependentUpon>NewProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportControl.resx">
+      <DependentUpon>ReportControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleControl.resx">
+      <DependentUpon>SaleControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleDetailForm.resx">
+      <DependentUpon>SaleDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShipmentForm.resx">
+      <DependentUpon>ShipmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProductForm.resx">
+      <DependentUpon>UpdateProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

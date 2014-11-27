@@ -1,0 +1,14 @@
+H:\Source\POS Api\Pos\obj\Debug\ResolveAssemblyReference.cache
+H:\Source\POS Api\Pos\bin\Debug\Pos.dll.config
+H:\Source\POS Api\Pos\bin\Debug\Pos.dll
+H:\Source\POS Api\Pos\bin\Debug\Pos.pdb
+H:\Source\POS Api\Pos\obj\Debug\Pos.dll
+H:\Source\POS Api\Pos\obj\Debug\Pos.pdb
+G:\Source\POS Api\Pos\bin\Debug\Pos.dll.config
+G:\Source\POS Api\Pos\bin\Debug\Pos.dll
+G:\Source\POS Api\Pos\bin\Debug\Pos.pdb
+G:\Source\POS Api\Pos\obj\Debug\ResolveAssemblyReference.cache
+G:\Source\POS Api\Pos\obj\Debug\Pos.dll
+G:\Source\POS Api\Pos\obj\Debug\Pos.pdb
+G:\Source\POS Api\Pos\obj\Debug\Pos.Properties.Resources.resources
+G:\Source\POS Api\Pos\obj\Debug\Pos.csproj.GenerateResource.Cache

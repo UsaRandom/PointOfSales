@@ -1,0 +1,48 @@
+G:\Source\Pos v1\Pos v1\bin\Release\Pos v1.exe
+G:\Source\Pos v1\Pos v1\bin\Release\Pos v1.pdb
+G:\Source\Pos v1\Pos v1\bin\Release\Pos UI.dll
+G:\Source\Pos v1\Pos v1\bin\Release\Pos.dll
+G:\Source\Pos v1\Pos v1\bin\Release\Pos UI.pdb
+G:\Source\Pos v1\Pos v1\bin\Release\Pos.pdb
+G:\Source\Pos v1\Pos v1\obj\Release\ResolveAssemblyReference.cache
+G:\Source\Pos v1\Pos v1\obj\Release\Pos_v1.PosMainWindow.resources
+G:\Source\Pos v1\Pos v1\obj\Release\Pos_v1.Properties.Resources.resources
+G:\Source\Pos v1\Pos v1\obj\Release\Pos v1.csproj.GenerateResource.Cache
+G:\Source\Pos v1\Pos v1\obj\Release\Pos v1.exe
+G:\Source\Pos v1\Pos v1\obj\Release\Pos v1.pdb
+H:\Source\Pos v1\Pos v1\bin\Release\Point of Sales.exe
+H:\Source\Pos v1\Pos v1\bin\Release\Point of Sales.pdb
+H:\Source\Pos v1\Pos v1\bin\Release\Pos UI.dll
+H:\Source\Pos v1\Pos v1\bin\Release\Pos.dll
+H:\Source\Pos v1\Pos v1\bin\Release\Pos UI.pdb
+H:\Source\Pos v1\Pos v1\bin\Release\Pos.pdb
+H:\Source\Pos v1\Pos v1\obj\Release\ResolveAssemblyReference.cache
+H:\Source\Pos v1\Pos v1\obj\Release\Pos_v1.PosMainWindow.resources
+H:\Source\Pos v1\Pos v1\obj\Release\Pos_v1.Properties.Resources.resources
+H:\Source\Pos v1\Pos v1\obj\Release\Pos v1.csproj.GenerateResource.Cache
+H:\Source\Pos v1\Pos v1\obj\Release\Point of Sales.exe
+H:\Source\Pos v1\Pos v1\obj\Release\Point of Sales.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\obj\Release\Point of Sales.exe
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\obj\Release\Point of Sales.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\bin\Release\Point of Sales.exe
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\bin\Release\Point of Sales.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos UI.dll
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos.dll
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos UI.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos.pdb
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\obj\Release\Pos_v1.PosMainWindow.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\obj\Release\Pos_v1.Properties.Resources.resources
+C:\Documents and Settings\martin.stauber\Desktop\Source\Pos v1\Pos v1\obj\Release\Pos v1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Release\Point of Sales.exe
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Release\Point of Sales.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Release\Point of Sales.exe
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Release\Point of Sales.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos UI.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos UI.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Release\Pos.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Release\Pos_v1.PosMainWindow.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Release\Pos_v1.Properties.Resources.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Release\Pos v1.csproj.GenerateResource.Cache

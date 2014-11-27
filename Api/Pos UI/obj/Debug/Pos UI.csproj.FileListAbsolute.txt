@@ -1,0 +1,11 @@
+G:\Source\POS Api\Pos UI\bin\Debug\Pos UI.dll
+G:\Source\POS Api\Pos UI\bin\Debug\Pos UI.pdb
+G:\Source\POS Api\Pos UI\bin\Debug\Pos.dll
+G:\Source\POS Api\Pos UI\bin\Debug\Pos.pdb
+G:\Source\POS Api\Pos UI\obj\Debug\ResolveAssemblyReference.cache
+G:\Source\POS Api\Pos UI\obj\Debug\Pos.UI.ItemSearchUI.resources
+G:\Source\POS Api\Pos UI\obj\Debug\Pos.UI.DataSourceSelectorUI.resources
+G:\Source\POS Api\Pos UI\obj\Debug\Pos.UI.MoneySelectorUI.resources
+G:\Source\POS Api\Pos UI\obj\Debug\Pos UI.csproj.GenerateResource.Cache
+G:\Source\POS Api\Pos UI\obj\Debug\Pos UI.dll
+G:\Source\POS Api\Pos UI\obj\Debug\Pos UI.pdb

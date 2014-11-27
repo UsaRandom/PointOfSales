@@ -1,0 +1,36 @@
+H:\Source\Pos v1\Pos v1\obj\Debug\ResolveAssemblyReference.cache
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.PosMainWindow.resources
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.Properties.Resources.resources
+H:\Source\Pos v1\Pos v1\obj\Debug\Pos v1.csproj.GenerateResource.Cache
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos UI.dll
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos.dll
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos UI.pdb
+H:\Source\Pos v1\Pos v1\bin\Debug\Pos.pdb
+G:\Source\Pos v1\Pos v1\obj\Debug\Pos v1.exe
+G:\Source\Pos v1\Pos v1\obj\Debug\Pos v1.pdb
+G:\Source\Pos v1\Pos v1\bin\Debug\Pos v1.exe
+G:\Source\Pos v1\Pos v1\bin\Debug\Pos v1.pdb
+G:\Source\Pos v1\Pos v1\bin\Debug\Pos UI.dll
+G:\Source\Pos v1\Pos v1\bin\Debug\Pos.dll
+G:\Source\Pos v1\Pos v1\bin\Debug\Pos UI.pdb
+G:\Source\Pos v1\Pos v1\bin\Debug\Pos.pdb
+G:\Source\Pos v1\Pos v1\obj\Debug\ResolveAssemblyReference.cache
+G:\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.PosMainWindow.resources
+G:\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.Properties.Resources.resources
+G:\Source\Pos v1\Pos v1\obj\Debug\Pos v1.csproj.GenerateResource.Cache
+H:\Source\Pos v1\Pos v1\obj\Debug\Point of Sales.exe
+H:\Source\Pos v1\Pos v1\obj\Debug\Point of Sales.pdb
+H:\Source\Pos v1\Pos v1\bin\Debug\Point of Sales.exe
+H:\Source\Pos v1\Pos v1\bin\Debug\Point of Sales.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Debug\Point of Sales.exe
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Debug\Point of Sales.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Debug\Pos UI.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Debug\Pos.dll
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Debug\Pos UI.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\bin\Debug\Pos.pdb
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.PosMainWindow.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Debug\Pos_v1.Properties.Resources.resources
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Debug\Pos v1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Debug\Point of Sales.exe
+C:\Documents and Settings\Compaq_Owner\Desktop\Source\Pos v1\Pos v1\obj\Debug\Point of Sales.pdb
