@@ -1,0 +1,10 @@
+To enable Database Interaction, execute the provided 'PosData.sql' script in a MS SQLServer Database.
+It will install a schema and user/pass for the POS application to use.
+
+After installing the Schema use the following Credentials: 
+
+Database Name: PosData
+Username: PosUser
+Password: pospass
+
+If you do not have MS SQLServer installed, you can use the XML instead. (XSD Validation is not required but recommeneded)
